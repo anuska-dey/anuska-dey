@@ -13,5 +13,3 @@
 ## 📫 Connect with me
 - 📧 Email: anuskadey18511@gmail.com
 - 💬 LinkedIn: (https://www.linkedin.com/in/anuska-dey-837a86336/)
-- 📸 Instagram: @whyyanuxka (https://www.instagram.com/whyyanuxka/)
-- 💬 Discord: anuska.dey
