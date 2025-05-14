@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Anuska!
 
--I'm a CSE undergrad specializing in AI & ML 🎓
+🎓 I'm a CSE undergrad specializing in AI & ML 🎓
 🚀 Currently learning: C, Python, Git, and Machine Learning
 📚 Passionate about community work, innovation, and tech!
 💻 Always curious to explore new things  
